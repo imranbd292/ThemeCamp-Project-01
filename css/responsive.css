@@ -1,0 +1,414 @@
+@media all and (max-width: 575px) {
+    .tow_side {
+        display: flex;
+        flex-direction: column-reverse;
+        
+      }
+      .contant {
+        padding-top: 50px;
+      }
+      .header_img img {
+        height: 420px;
+        width: 420px;
+      }
+      .header_btn {
+        padding-top: 34px;
+        padding-bottom: 20px;
+      
+      }
+      .service_area {
+        background-color: #FDF0E9;
+        padding-top: 30px;
+      }
+      .prot_title {
+          text-align: center;
+      }
+      .prot_title h5 {
+        padding-top: 50px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+      }
+      .prot_header h2 {
+        color: var(--white-color);
+        padding-top: 20px;
+        padding-bottom: 10px;
+      }
+      .prot_header {
+          display: flex;
+          flex-direction: column;
+      }
+      .prot_btn{
+        margin-bottom: 30px;
+      }
+      .gabriel_pires_img {
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .gabriel_pires_img img{
+       height: 400px;
+       width: 400px;
+      }
+      .gabriel_pires_title {
+        padding-top: 40px;
+      }
+      .gab_btn {
+        padding-top: 10px;
+        margin-bottom: 30px;
+      }
+      .features_contant{
+          display: flex;
+          flex-direction: column-reverse;
+      }
+      .features_title {
+
+        padding-top: 10px;
+      }
+      .features_img img {
+        padding-bottom: 50px;
+        width: 400px;
+      }
+      .features_img {
+        padding-bottom: 50px;
+        padding-top: 20px;
+      }
+      .getstart_title {
+        padding-top: 10px;
+      
+      }
+      .getstart_area p {
+        padding-top: 20px;
+        color:#39140083;
+      }
+      .getstart_img {
+        padding-top: 20px;
+      }
+      .all_card {
+          display: flex;
+          flex-direction: column;
+      }
+      .faq_title {
+        padding-top: 30px;
+      }
+      .brand_logos {
+        padding: 20px 0;
+      }
+      .blog_title h5 {
+        text-transform: uppercase;
+        padding: 20px 0 0 70px;
+      }
+      .blog_header{
+        display: flex;
+        flex-direction: column;
+      }
+      .blog_img img {
+        height: 300px;
+        width: 400px;
+      }
+      .blog_img {
+        padding-top: 30px;
+        padding-left: 10%;
+      }
+      .blog_img_title {
+          padding-left: 50px;
+      }
+      .inport_area input {
+        width: 100%;
+    }
+    .inport_area a {
+        width: 100%;
+        margin: auto;
+    }
+    .contact_area_btn{
+        text-align: center;
+    }
+    .contact_title h5 {
+        padding-top: 20px;
+      }
+      .dream_title h5 {
+        padding-top: 20px;
+      }
+      .dream_img {
+        padding-top: 40px;
+      }
+      .dream_img img {
+        width: 400px;
+        height: 400px;
+      }
+      .pics_photo img {
+          height: 250px;
+          width: 250px;
+      }
+      .pics_photo {
+        padding-top: 0;
+      
+      }
+      .footer_area .logos {
+        padding-top: 30px;
+        text-align: center;
+      }
+      .footer_area .menu_area {
+          text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+      }
+      .footer_area .services_area {
+        padding-top: 30px;
+        text-align: center;
+      }
+      .footer_area .social_link {
+        padding-top: 30px;
+        padding-left: 20px;
+        text-align: center;
+      }
+     .copy_right {
+         display: flex;
+         flex-direction: column;
+         text-align: center;
+     }
+     .condition {
+         text-align: center;
+     }
+
+    }
+
+
+
+
+
+
+
+@media all and (max-width: 400px) {
+    .tow_side {
+        display: flex;
+        flex-direction: column-reverse;
+        
+      }
+      .contant {
+        padding-top: 50px;
+      }
+      .header_img img {
+        height: 320px;
+        width: 320px;
+      }
+      .header_btn {
+        padding-top: 34px;
+        padding-bottom: 20px;
+      
+      }
+      .service_area {
+        background-color: #FDF0E9;
+        padding-top: 30px;
+      }
+      .prot_title {
+          text-align: center;
+      }
+      .prot_title h5 {
+        padding-top: 50px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+      }
+      .prot_header h2 {
+        color: var(--white-color);
+        padding-top: 20px;
+        padding-bottom: 10px;
+      }
+      .prot_header {
+          display: flex;
+          flex-direction: column;
+      }
+      .prot_btn{
+        margin-bottom: 30px;
+      }
+      
+.prot_card_1 {
+    border: 1px solid red;
+    height: 376px;
+    width: 348px;
+    background-image: url(../images/Bitmap.png);
+    background-size: 100%;
+    background-repeat: no-repeat ; 
+  }
+  .prot_card_2 {
+    border: 1px solid red;
+    height: 376px;
+    width: 348px;
+    background-image: url(../images/Bitmap-2.png);
+    background-size: 100%;
+    background-repeat: no-repeat ; 
+  }
+  .prot_card_3 {
+    border: 1px solid red;
+    height: 356px;
+    width: 358px;
+    background-image: url(../images/Bitmap-3.png);
+    background-size: 600px;
+    background-repeat: no-repeat ; 
+  }
+      .gabriel_pires_img {
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .gabriel_pires_img img{
+       height: 300px;
+       width: 300px;
+      }
+      .gabriel_pires_title {
+        padding-top: 40px;
+      }
+      .gab_btn {
+        padding-top: 10px;
+        margin-bottom: 30px;
+      }
+      .features_contant{
+          display: flex;
+          flex-direction: column-reverse;
+      }
+      .features_title {
+
+        padding-top: 10px;
+      }
+      .features_img img {
+        padding-bottom: 50px;
+        width: 300px;
+      }
+      .features_img {
+        padding-bottom: 50px;
+        padding-top: 20px;
+      }
+      .getstart_title {
+        padding-top: 10px;
+      
+      }
+      .getstart_area p {
+        padding-top: 20px;
+        color:#39140083;
+      }
+      .getstart_img {
+        padding-top: 20px;
+      }
+      .all_card {
+          display: flex;
+          flex-direction: column;
+      }
+      .faq_title {
+        padding-top: 30px;
+      }
+      .brand_logos {
+        padding: 20px 0;
+      }
+      .blog_title h5 {
+        text-transform: uppercase;
+        padding: 20px 0 0 70px;
+      }
+      .blog_header{
+        display: flex;
+        flex-direction: column;
+      }
+      .design_img {
+        padding-top: 20px;
+        padding-left: 20px;
+      }
+      .design_img_title {
+        padding-top: 20px;
+        padding-left: 20px;
+      }
+      .marketing_img {
+        padding-top: 20px;
+        padding-left: 20px;
+      }
+      .mar_img_title {
+        padding-top: 20px;
+        padding-left: 20px;
+      }
+      .blog_img img {
+        height: 250px;
+        width: 300px;
+      }
+      .blog_img {
+        padding-top: 30px;
+        padding-left: 10%;
+      }
+      .blog_img_title {
+          padding-left: 50px;
+      }
+      .inport_area input {
+        width: 100%;
+    }
+    .inport_area a {
+        width: 100%;
+        margin: auto;
+    }
+    .contact_area_btn{
+        text-align: center;
+    }
+    .contact_title h5 {
+        padding-top: 20px;
+      }
+      .dream_title h5 {
+        padding-top: 20px;
+      }
+      .input_area select {
+        width: 300px;
+        margin-top: 10px;
+        font-size: 14px;
+        padding: 10px;
+        border-radius: 5px;
+      }
+      .contact_card .input_area input {
+        width: 300px;
+        margin-top: 10px;
+        font-size: 14px;
+        padding: 10px;
+        border-radius: 5px;
+        outline: none;
+      
+      }
+      .contact_card .input_area textarea {
+        margin-top: 10px;
+        padding: 10px;
+        font-size: 14px;
+        width: 300px;
+    }
+      .dream_img {
+        padding-top: 40px;
+      }
+      .dream_img img {
+        width: 300px;
+        height: 300px;
+      }
+      .pics_photo img {
+          height: 150px;
+          width: 150px;
+      }
+      .pics_photo {
+        padding-top: 0;
+      
+      }
+      .footer_area .logos {
+        padding-top: 30px;
+        text-align: center;
+      }
+      .footer_area .menu_area {
+          text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
+      }
+      .footer_area .services_area {
+        padding-top: 30px;
+        text-align: center;
+      }
+      .footer_area .social_link {
+        padding-top: 30px;
+        padding-left: 20px;
+        text-align: center;
+      }
+     .copy_right {
+         display: flex;
+         flex-direction: column;
+         text-align: center;
+     }
+     .condition {
+         text-align: center;
+     }
+
+    }
